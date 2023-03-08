@@ -1,0 +1,5 @@
+# use this to cut desk areas for structural similarity comparison
+# entries are: seat_number:((x0,y0,x1,y1),(x,y),...)
+# img[x0:x1,y0:y1] gives the ROI; (x,y),... is the cutting polygon
+# seat numbers are between 1-103
+
